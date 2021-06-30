@@ -41,7 +41,7 @@ namespace Pulse.Models
         public Conversation ConversationBody { get; set; }
 
         public Message()
-		{
-		}
+        {
+        }
     }
 }

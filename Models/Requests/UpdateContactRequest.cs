@@ -11,7 +11,7 @@ namespace Pulse.Models
         public string Name { get; set; }
 
         public UpdateContactRequest()
-		{
-		}
+        {
+        }
     }
 }
